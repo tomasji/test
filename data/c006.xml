@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<competitor_profile xmlns="http://schemas.sportradar.com/sportsapi/v1/unified" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/v1/unified http://schemas.sportradar.com/ufsportsapi/v1/endpoints/unified/ufsportsapi.xsd">
+  <jerseys>
+    <jersey type="home" base="990000" sleeve="990000" number="ffffff" colors="blue"/>
+    <jersey type="away" base="fdde0a" sleeve="fdde0a" number="a20111" colors="blue|green" stripes="false"/>
+    <jersey type="goalkeeper" base="eb9a00" sleeve="000000" number="000000" stripes="false" horizontal_stripes="false"/>
+    <jersey type="third" base="ffffff" sleeve="000000" number="020000" colors="yellow|green" horizontal_stripes="false"/>
+    <jersey type="forth" base="00ffff" number="020001" colors="pink"/>
+  </jerseys>
+  <manager id="sr:player:5929" name="Smith" nationality="Dania" country_code="DNK"/>
+  <players>
+    <player type="midfielder" id="sr:player:100408" name="Fantomas"/>
+  </players>
+</competitor_profile>
